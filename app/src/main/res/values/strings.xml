@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ToDoList-simples</string>
+    <string name="todoListHeader">Lista:</string>
+    <string name="newTodoText">A fazer...</string>
+    <string name="newTodoButtonText">Adicionar</string>
+    <string name="x_mark">X</string>
+</resources>
